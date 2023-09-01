@@ -1,0 +1,49 @@
+.bg-container{
+    background-color:white;
+    height:100vh;
+padding: 20px;
+
+    
+}
+
+.card-1{
+    background-color: white;
+    text-align: center;
+    
+
+}
+.heading-2{
+   font-size:22px;
+   font-family: roboto;
+   font-weight:bold;
+   padding-top: 5px;
+}
+.card3{
+    padding-right:15px;
+    font-family:roboto;
+    font-weight:bold;
+    font-size:13px;
+}
+.card4{
+    padding-left:15px;
+    font-family:roboto;
+    font-weight:bold;
+    font-size:12px;
+}
+p{
+    font-size:16px;
+    color:#5A7184;
+}
+.head1{
+    font-size:20px;
+    font-family:roboto;
+    font-weight:bold;
+}
+
+
+
+
+
+
+    
+
